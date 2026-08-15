@@ -1,0 +1,19 @@
+Robin Sharma
+Email: robin.sharma@email.com
+Phone: 9876543210
+
+Objective:
+Final year B.Tech CS(AI/ML) student seeking a Machine Learning Engineer role.
+
+Skills:
+Python, SQL, TensorFlow, PyTorch, scikit-learn, pandas, numpy, deep learning,
+neural networks, natural language processing, Git, Flask, Docker, communication,
+problem solving
+
+Projects:
+- Built a sentiment classifier using scikit-learn and pandas, achieving 91% accuracy.
+- Developed a REST API using Flask to serve a trained TensorFlow model.
+- Used Git for version control across a 4-person team project.
+
+Education:
+B.Tech in Computer Science (AI/ML), 2026

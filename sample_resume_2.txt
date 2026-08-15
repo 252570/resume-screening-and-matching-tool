@@ -1,0 +1,17 @@
+Aditi Verma
+Email: aditi.verma@email.com
+Phone: 9123456780
+
+Objective:
+Web developer with some exposure to data analysis, looking to explore ML roles.
+
+Skills:
+JavaScript, React, HTML, CSS, Node.js, MongoDB, Excel, teamwork,
+time management
+
+Projects:
+- Built a full-stack e-commerce website using React and Node.js.
+- Created dashboards in Excel for a college club's budget tracking.
+
+Education:
+B.Tech in Computer Science, 2026
